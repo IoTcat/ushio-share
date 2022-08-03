@@ -67,3 +67,15 @@
 [submodule "html/wiot"]
 	path = html/wiot
 	url = git@github.com:IoTcat/wIoT-OTA.git
+[submodule "lib/qcloudsms"]
+	path = lib/qcloudsms
+	url = git@github.com:iotcat/qcloudsms
+[submodule "lib/huaweicloud-sdk-php-obs"]
+	path = lib/huaweicloud-sdk-php-obs
+	url = git@github.com:iotcat/huaweicloud-sdk-php-obs
+[submodule "lib/anti-ddos"]
+	path = lib/anti-ddos
+	url = git@github.com:iotcat/anti-ddos
+[submodule "html/session"]
+	path = html/session
+	url = git@github.com:IoTcat/ushio-session.git
