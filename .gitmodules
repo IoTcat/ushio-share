@@ -1,3 +1,69 @@
 [submodule "vimrc"]
 	path = vimrc
 	url = git@github.com:IoTcat/vimrc.git
+[submodule "html/iotcat"]
+	path = html/iotcat
+	url = git@github.com:IoTcat/iotcat.me-homepage.git
+[submodule "html/blog"]
+	path = html/blog
+	url = git@github.com:IoTcat/EEE.DOG-public.git
+[submodule "html/video"]
+	path = html/video
+	url = git@github.com:IoTcat/acg.watch.git
+[submodule "html/birthday"]
+	path = html/birthday
+	url = git@github.com:IoTcat/birthday.git
+[submodule "html/cv"]
+	path = html/cv
+	url = git@github.com:IoTcat/CV.git
+[submodule "html/api"]
+	path = html/api
+	url = git@github.com:IoTcat/ushio-api.git
+[submodule "html/img"]
+	path = html/img
+	url = git@github.com:IoTcat/ushio-img.git
+[submodule "html/imgbed"]
+	path = html/imgbed
+	url = git@github.com:IoTcat/ushio-imgbed.git
+[submodule "html/guide"]
+	path = html/guide
+	url = git@github.com:IoTcat/ushio-guide.git
+[submodule "html/login"]
+	path = html/login
+	url = git@github.com:IoTcat/ushio-login.git
+[submodule "html/log"]
+	path = html/log
+	url = git@github.com:IoTcat/ushio-log.git
+[submodule "html/auth"]
+	path = html/auth
+	url = git@github.com:IoTcat/ushio-auth.git
+[submodule "html/chat"]
+	path = html/chat
+	url = git@github.com:IoTcat/ushio-chat.git
+[submodule "html/shorturl"]
+	path = html/shorturl
+	url = git@github.com:IoTcat/ushio-shorturl.git
+[submodule "html/v2ray"]
+	path = html/v2ray
+	url = git@github.com:IoTcat/ushio-v2ray.git
+[submodule "html/report"]
+	path = html/report
+	url = git@github.com:IoTcat/ushio-report.git
+[submodule "html/github"]
+	path = html/github
+	url = git@github.com:IoTcat/ushio-github.git
+[submodule "html/cp-acc"]
+	path = html/cp-acc
+	url = git@github.com:IoTcat/cp-acc.git
+[submodule "html/filebed"]
+	path = html/filebed
+	url = git@github.com:IoTcat/ushio-filebed.git
+[submodule "html/pay"]
+	path = html/pay
+	url = git@github.com:IoTcat/ushio-pay.git
+[submodule "html/user"]
+	path = html/user
+	url = git@github.com:IoTcat/ushio-user.git
+[submodule "html/wiot"]
+	path = html/wiot
+	url = git@github.com:IoTcat/wIoT-OTA.git
