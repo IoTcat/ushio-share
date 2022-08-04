@@ -79,3 +79,6 @@
 [submodule "html/session"]
 	path = html/session
 	url = git@github.com:IoTcat/ushio-session.git
+[submodule "html/ushio"]
+	path = html/ushio
+	url = git@github.com:IoTcat/Ushio-homepage.git
