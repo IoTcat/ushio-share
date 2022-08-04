@@ -19,9 +19,6 @@
 [submodule "html/api"]
 	path = html/api
 	url = git@github.com:IoTcat/ushio-api.git
-[submodule "html/img"]
-	path = html/img
-	url = git@github.com:IoTcat/ushio-img.git
 [submodule "html/imgbed"]
 	path = html/imgbed
 	url = git@github.com:IoTcat/ushio-imgbed.git
