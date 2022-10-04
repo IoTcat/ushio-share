@@ -40,9 +40,6 @@
 [submodule "html/shorturl"]
 	path = html/shorturl
 	url = git@github.com:IoTcat/ushio-shorturl.git
-[submodule "html/v2ray"]
-	path = html/v2ray
-	url = git@github.com:IoTcat/ushio-v2ray.git
 [submodule "html/report"]
 	path = html/report
 	url = git@github.com:IoTcat/ushio-report.git
@@ -79,3 +76,6 @@
 [submodule "html/ushio"]
 	path = html/ushio
 	url = git@github.com:IoTcat/Ushio-homepage.git
+[submodule "html/v2ray"]
+	path = html/v2ray
+	url = git@github.com:IoTcat/ushio-net.git
