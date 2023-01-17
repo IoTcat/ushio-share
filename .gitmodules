@@ -3,7 +3,8 @@
 	url = git@github.com:IoTcat/vimrc.git
 [submodule "html/iotcat"]
 	path = html/iotcat
-	url = git@github.com:IoTcat/iotcat.me-homepage.git
+	url = git@github.com:IoTcat/iotcat.me.git
+	branch = gh-pages
 [submodule "html/blog"]
 	path = html/blog
 	url = git@github.com:IoTcat/EEE.DOG-public.git
